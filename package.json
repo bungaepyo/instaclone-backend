@@ -1,0 +1,19 @@
+{
+  "name": "instaclone-backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bungaepyo/instaclone-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bungaepyo/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/bungaepyo/instaclone-backend#readme"
+}
